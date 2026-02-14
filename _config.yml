@@ -101,9 +101,9 @@ theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
-deploy:
-  type: git
-  repo: git@github.com:Wrilack/Wrilack.github.io.git
-    # example, https://github.com/hexojs/hexojs.github.io
-  branch: gh-pages
-  message: "Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}"
+#deploy:
+#  type: git
+#  repo: git@github.com:Wrilack/Wrilack.github.io.git
+#    # example, https://github.com/hexojs/hexojs.github.io
+#  branch: gh-pages
+#  message: "Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}"
