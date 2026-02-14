@@ -2,7 +2,7 @@
 title: 'Learning c language (2): files operations'
 date: 2026-02-14 21:09:47
 tags: [c]
-type: [学习, c语言]
+categories: [学习, c语言]
 ---
 # 一. 文件指针
 
