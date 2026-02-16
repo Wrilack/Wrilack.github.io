@@ -30,7 +30,7 @@ categories: [学习, js]
 | onFocus     | 聚焦      |
 | onBlur      | 失焦      |
 
-<div style="text-align: center;">### 绑定</div>
+<div style="text-align: center;"> 绑定 </div>
 
 1. HTML属性
 2. DOM属性
