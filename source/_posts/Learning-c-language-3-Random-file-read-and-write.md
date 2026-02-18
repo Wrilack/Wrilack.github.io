@@ -1,5 +1,5 @@
 ---
-title: 'Learning c language (2): Random file read and write'
+title: 'Learning c language (3): Random file read and write'
 date: 2026-02-16 10:26:52
 tags: [c]
 categories: [学习, c语言]
@@ -10,4 +10,6 @@ categories: [学习, c语言]
 <mark>非针对文件流</mark>
 
 # 2. 文件的随机读写
-1. fseek, ftell, rewind;
+1. fseek: 改变文件流读写位置
+2. ftell: 获取当前读写位置
+3. rewind: 回到文件初始位置
