@@ -10,7 +10,7 @@ e.g:`tab.ele(@id=)`
 `tab.ele(tag:input@@style=@@value=)`
 
 # 2.iframe定位
-<iframe src="/public/2026/02/13/markdown/index.html" title="iframe的介绍" height="400" width="400"></iframe>
+<iframe src="/2026/02/13/markdown/index.html" title="iframe的介绍" height="400" width="400"></iframe>
 
 e.g: <br>
 >frame = tab.get_frame(t:iframe);<br>
