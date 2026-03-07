@@ -1,5 +1,5 @@
 ---
-title: element positioning
+title: DrissionPage
 date: 2026-02-27 20:10:13
 tags: [dp]
 categories: [学习, dp]
@@ -33,8 +33,11 @@ ele = frame.ele()
 >xpath= 'x: '<br>
 > page.ele(xpath)
 
+
 <h1 style="text-align: center">2.元素属性</h1>
 
 <a href= "https://www.drissionpage.cn/browser_control/get_ele_info" target= "_blank">文档</a>
 
 &ensp;常用：save\link\atrr()
+
+
